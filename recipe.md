@@ -19,7 +19,7 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 ## Filling
 
 - 1 1/2 cups raspberry preserves
-- 1 cup fresh raspberries
+- 3 cup fresh raspberries
 
 ## Frosting
 
@@ -27,7 +27,7 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 - 4 cups powdered sugar
 - 2 teaspoons vanilla extract
 - 1/2 cup unsweetened cocoa powder
-- 2 tablespoons milk
+- 3 tablespoons milk
 
 ## Decoration
 
